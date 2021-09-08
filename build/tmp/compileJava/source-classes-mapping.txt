@@ -1,23 +1,23 @@
 Laco.java
  Laco
-ExercicioFinalDate.java
- ExercicioFinalDate
 ManipulandoStrings.java
  ManipulandoStrings
-UsandoLocalDate.java
- UsandoLocalDate
+ExercicioFinalDate.java
+ ExercicioFinalDate
 UtilizandoCalendar.java
  UtilizandoCalendar
+UsandoLocalDate.java
+ UsandoLocalDate
+Tipos.java
+ Tipos
 ExercicioFinalCalendar.java
  ExercicioFinalCalendar
-ManipulandoDatas.java
- ManipulandoDatas
-Teste.java
- Teste
-UsandoDateFormat.java
- UsandoDateFormat
 UsandoTryCatch.java
  UsandoTryCatch
+UsandoDateFormat.java
+ UsandoDateFormat
+ManipulandoDatas.java
+ ManipulandoDatas
 UsandoLocalTime.java
  UsandoLocalTime
 UsandoLocalDateTime.java
